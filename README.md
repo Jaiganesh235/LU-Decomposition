@@ -45,8 +45,8 @@ print(x)
 ```
 
 ## Output:
-line ![Screenshot (85)](https://github.com/Jaiganesh235/LU-Decomposition/assets/118657189/2ae084f5-563b-4313-9cec-f2c386c80695)
-![Screenshot (86)](https://github.com/Jaiganesh235/LU-Decomposition/assets/118657189/15e33e08-3871-4fa5-b4f5-0b4f363d611f)
+(i) To find the L and U matrix ![Screenshot (85)](https://github.com/Jaiganesh235/LU-Decomposition/assets/118657189/2ae084f5-563b-4313-9cec-f2c386c80695)
+(ii) To find the LU Decomposition of a matrix ![Screenshot (86)](https://github.com/Jaiganesh235/LU-Decomposition/assets/118657189/15e33e08-3871-4fa5-b4f5-0b4f363d611f)
 
 
 
